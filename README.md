@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nevin</h1>
 <h3 align="center">A passionate frontend developer from kerala</h3>
-<img align="right" style="float:right;z-index:999;" alt="coding" width="400" height="400" src="https://i.gifer.com/MwgL.gif"/>
+<img align="right" style="float:right;z-index:999;" alt="coding" width="400" height="400" src="https://i.kym-cdn.com/photos/images/original/000/950/722/b2a.gif"/>
 
 - 🔭 I’m currently working on **firewall using ebpf**
 
