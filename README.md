@@ -1,7 +1,7 @@
-
+![MasterHead](https://i.kym-cdn.com/entries/icons/original/000/050/187/4541e987-5d55-421f-968d-04f99fb6a68c-1702995843784.jpg)
 <h1 align="center">Hi 👋, I'm Nevin</h1>
 <h3 align="center">A passionate frontend developer from kerala</h3>
-<img align="right" style="float:right,z-index:999;" alt="coding" width="400" height="400" src="https://i.gifer.com/MwgL.gif"/>
+<img align="right" style="float:right;z-index:999;" alt="coding" width="400" height="400" src="https://i.gifer.com/MwgL.gif"/>
 
 - 🔭 I’m currently working on **firewall using ebpf**
 
